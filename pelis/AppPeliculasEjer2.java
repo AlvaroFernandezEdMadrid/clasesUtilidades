@@ -1,4 +1,4 @@
-package colecciones;
+package pelis;
 
 public class AppPeliculasEjer2 {
 

@@ -1,4 +1,4 @@
-package colecciones;
+package pelis;
 
 import java.util.Comparator;
 

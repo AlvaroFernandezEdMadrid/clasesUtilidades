@@ -1,4 +1,4 @@
-package colecciones;
+package pelis;
 
 import java.time.LocalDate;
 import java.util.HashSet;

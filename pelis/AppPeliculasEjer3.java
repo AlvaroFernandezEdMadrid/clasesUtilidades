@@ -1,6 +1,8 @@
-package colecciones;
+package pelis;
 
+import java.time.temporal.ChronoUnit;
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.Set;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
